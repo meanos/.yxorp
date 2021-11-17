@@ -1,9 +1,10 @@
 ![](./assets/logo.svg)
-![](./assets/banner.png)
 
 ![](./assets/header.png)
 ![](./assets/one.png)
 ![](./assets/sub.png)
+![](./assets/banner.png)
+![](./assets/long.png)
 
 ## Once Two Great Proxies <a href="https://github.com/donPabloNow/punisher">Punisher</a> & <a href="https://github.com/donPabloNow/.yxorp">PHP Proxy</a> Now there is only ONE!
 
@@ -15,8 +16,6 @@
 
 Web Proxy Application built on [**php-proxy library**](https://github.com/donPabloNow/php-proxy) ready to be installed on
 your server
-
-![alt text](http://i.imgur.com/KrtU5KE.png?1 "This is how PHP-Proxy looks when installed")
 
 ## Web-Proxy vs Proxy Server
 
