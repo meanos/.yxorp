@@ -8,10 +8,6 @@ use Proxy\Config;
 use Proxy\Http\Request;
 use Proxy\Proxy;
 
-if (!function_exists('curl_version')) {
-    die("cURL extension is not loaded!");
-}
-
 // load config...
 Config::load('./config.php');
 
@@ -63,7 +59,7 @@ if (isset($_POST['url'])) {
         header("Location: " . Config::get('index_redirect'));
 
     } else {
-        echo render_template("./templates/main.php", array('version' => Proxy::VERSION));
+        echo render_template("./templates/main.php");
     }
 
     exit;
@@ -127,8 +123,7 @@ try {
 
         echo render_template("./templates/main.php", array(
             'url' => $url,
-            'error_msg' => $ex->getMessage(),
-            'version' => Proxy::VERSION
+            'error_msg' => $ex->getMessage()
         ));
 
     }
