@@ -1,21 +1,22 @@
 ![](./assets/logo.svg)
+![](./assets/banner.png)
 
-![](./assets/header.png?v=1)
-![](./assets/one.png?v=1)
-![](./assets/sub.png?v=1)
-![](./assets/banner.png?v=1)
-![](./assets/long.png?v=1)
+![](./assets/header.png)
+![](./assets/one.png)
+![](./assets/sub.png)
 
 ## Once Two Great Proxies <a href="https://github.com/donPabloNow/punisher">Punisher</a> & <a href="https://github.com/donPabloNow/.yxorp">PHP Proxy</a> Now there is only ONE!
 
-![](./assets/install.png?v=1)
-![](./assets/google.png?v=1)
-![](./assets/visitors.png?v=1)
+![](./assets/install.png)
+![](./assets/google.png)
+![](./assets/visitors.png)
 
 # .xyorp
 
 Web Proxy Application built on [**php-proxy library**](https://github.com/donPabloNow/php-proxy) ready to be installed on
 your server
+
+![alt text](http://i.imgur.com/KrtU5KE.png?1 "This is how PHP-Proxy looks when installed")
 
 ## Web-Proxy vs Proxy Server
 
