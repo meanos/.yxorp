@@ -1,16 +1,16 @@
 ![](./assets/logo.svg)
 
-![](./assets/header.png?v=1)
-![](./assets/one.png?v=1)
-![](./assets/sub.png?v=1)
-![](./assets/banner.png?v=1)
-![](./assets/long.png?v=1)
+![](./assets/header.png?v=2)
+![](./assets/one.png?v=2)
+![](./assets/sub.png?v=2)
+![](./assets/banner.png?v=2)
+![](./assets/long.png?v=2)
 
 ## Once Two Great Proxies <a href="https://github.com/donPabloNow/punisher">Punisher</a> & <a href="https://github.com/donPabloNow/.yxorp">PHP Proxy</a> Now there is only ONE!
 
-![](./assets/install.png?v=1)
-![](./assets/google.png?v=1)
-![](./assets/visitors.png?v=1)
+![](./assets/install.png?v=2)
+![](./assets/google.png?v=2)
+![](./assets/visitors.png?v=2)
 
 # .xyorp
 
