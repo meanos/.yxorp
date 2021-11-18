@@ -27,6 +27,8 @@ It's important to remember that this is a **project**, not a library. It's not a
 
 ![](./assets/google.png?v=3)
 
+![](./assets/oasis.png?v=3)
+
 
 ```bash
 composer create-project donPabloNow/.xyorp:dev-master /var/www/
@@ -39,6 +41,8 @@ If you don't have composer or are attempting to host this app on a **shared host
 
 **Direct Link:**  
 https://www.php-proxy.com/download/php-proxy.zip
+
+![](./assets/destined.png?v=3)
 
 ## Keep it up-to-date
 
